@@ -3,6 +3,9 @@ I am a PhD researcher at the University of Dundee, Scotland, specialising in Psy
 how political identities, individual values and beliefs, and societal factors shape intergroup and intragroup cooperative behaviours. 
 
 ## Skills and Experience
-* R & Python
 
-
+### Programming Languages & Tools
+* **R**: Data analysis, statistical modelling, and visualisation.
+* **SPSS**, **JASP**: Statistical analysis and reporting.
+* **Python**: Data manipulation and analysis.
+* **HTML, CSS, JavaScript**: Basic web development.
